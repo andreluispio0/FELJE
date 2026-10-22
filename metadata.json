@@ -1,0 +1,6 @@
+{
+  "name": "FELJ Consultoria - Seguros de Carga e Transportes",
+  "description": "Assessoria técnica especializada em seguros de carga nacionais e internacionais para corretores de seguros e seguradoras.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
